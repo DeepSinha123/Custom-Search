@@ -1,0 +1,2 @@
+C:\AndroidApplication\SearchFromGoogle\SearchFromGoogle\obj\Debug\assemblies\SearchFromGoogle.dll
+C:\AndroidApplication\SearchFromGoogle\SearchFromGoogle\obj\Debug\assemblies\Newtonsoft.Json.dll

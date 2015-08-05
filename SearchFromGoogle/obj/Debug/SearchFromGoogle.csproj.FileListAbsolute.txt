@@ -1,0 +1,14 @@
+C:\AndroidApplication\SearchFromGoogle\SearchFromGoogle\bin\Debug\SearchFromGoogle.dll
+C:\AndroidApplication\SearchFromGoogle\SearchFromGoogle\bin\Debug\SearchFromGoogle.pdb
+C:\AndroidApplication\SearchFromGoogle\SearchFromGoogle\bin\Debug\SearchFromGoogle.SearchFromGoogle.apk
+C:\AndroidApplication\SearchFromGoogle\SearchFromGoogle\bin\Debug\SearchFromGoogle.SearchFromGoogle-Signed.apk
+C:\AndroidApplication\SearchFromGoogle\SearchFromGoogle\bin\Debug\Newtonsoft.Json.dll
+C:\AndroidApplication\SearchFromGoogle\SearchFromGoogle\bin\Debug\Newtonsoft.Json.xml
+C:\AndroidApplication\SearchFromGoogle\SearchFromGoogle\obj\Debug\SearchFromGoogle.dll
+C:\AndroidApplication\SearchFromGoogle\SearchFromGoogle\obj\Debug\SearchFromGoogle.pdb
+C:\AndroidApplication\SearchFromGoogle\SearchFromGoogle\obj\Debug\android\bin\SearchFromGoogle.SearchFromGoogle.apk
+C:\AndroidApplication\SearchFromGoogle\SearchFromGoogle\obj\Debug\res\layout\main.xml
+C:\AndroidApplication\SearchFromGoogle\SearchFromGoogle\obj\Debug\res\values\strings.xml
+C:\AndroidApplication\SearchFromGoogle\SearchFromGoogle\obj\Debug\res\drawable\icon.png
+C:\AndroidApplication\SearchFromGoogle\SearchFromGoogle\obj\Debug\R.cs.flag
+C:\AndroidApplication\SearchFromGoogle\SearchFromGoogle\obj\Debug\uploadflags.txt
